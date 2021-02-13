@@ -16,5 +16,7 @@
 # Установить Git
 
  - Скачать тут https://git-scm.com/download/win
- - Я еще что-то сделал чтобы VScode увидел git
+ - Лучше ставить не portable версию
+ - Обучение https://githowto.com/ru/setup
 
+ 
